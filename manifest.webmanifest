@@ -1,0 +1,11 @@
+{
+  "name": "Cheki Kiongozi",
+  "short_name": "Cheki",
+  "description": "Follow leaders, public money, projects and promises in Kenya.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f4f6f1",
+  "theme_color": "#214d3a",
+  "lang": "en-KE"
+}

@@ -1,0 +1,58 @@
+/* Larger type scale for comfortable reading across the dashboard. */
+body{font-size:16px}
+.brand-mark{width:38px;height:38px}
+.brand-mark svg{width:32px;height:32px;overflow:visible}
+.brand-mark .spear{stroke:#fff;stroke-width:2.1;stroke-linecap:round}
+.brand-mark .shield{fill:#fff;stroke:#fff;stroke-width:1.2;stroke-linejoin:round}
+.brand-mark .shield-black{fill:#111}
+.brand-mark .shield-red{fill:#b51f2a}
+.brand-mark .shield-white{fill:#fff}
+.brand-name{font-size:16px}
+.brand-name span{font-size:11px;letter-spacing:2px}
+.nav-label{font-size:10px}
+.nav-link{font-size:14px;height:44px}
+.county-select strong{font-size:14px}
+.county-select small,.trust-card p,.trust-card a,.profile strong{font-size:12px}
+.trust-card strong{font-size:13px}
+.profile small{font-size:11px}
+.breadcrumbs{font-size:13px}
+.period{font-size:12px}
+.help-button{font-size:12px}
+.welcome-row .eyebrow,.eyebrow{font-size:11px}
+.welcome-row h1{font-size:36px}
+.intro{font-size:14px}
+.share-button{font-size:12px}
+.card-kicker,.metric-heading>span:nth-child(2){font-size:10px}
+.status-pill{font-size:10px}
+.overview-content h2{font-size:21px}
+.overview-content p,.coverage strong{font-size:11px}
+.coverage small{font-size:10px}
+.card-foot{font-size:10px}
+.metric-note{font-size:11px}
+.metric-bottom,.project-status{font-size:10px}
+.metric-bottom strong,.metric-bottom a{font-size:10px}
+.section-heading h2,.panel-header h2{font-size:20px}
+.section-heading p{font-size:12px}
+.text-link{font-size:11px}
+.leader-card h3{font-size:14px}
+.leader-sub{font-size:11px}
+.role-tag{font-size:9px}
+.grade-copy strong{font-size:10px}
+.grade-copy small{font-size:9px}
+.leader-footer{font-size:10px}
+.project-info strong{font-size:11px}
+.project-info span{font-size:10px}
+.project-money strong{font-size:10px}
+.project-money span,.project-badge{font-size:9px}
+.panel-disclaimer,.source-footer>span,.source-footer div{font-size:9px}
+.source-footer b{font-size:8px}
+.period-select{font-size:10px}
+.money-empty>strong{font-size:11px}
+.money-empty p{font-size:10px}
+.promise-empty strong{font-size:12px}
+.promise-empty p,.coming-note{font-size:10px}
+.method-card h2{font-size:17px}
+.method-card p,.method-card a{font-size:10px}
+.footer{font-size:10px}
+.footer-status{font-size:9px}
+@media(max-width:700px){.welcome-row h1{font-size:30px}.intro{font-size:12px}.section-heading p{font-size:11px}.project-info strong{font-size:10px}.project-info span{font-size:9px}.project-badge{font-size:8px}.grade-copy strong{font-size:9px}.grade-copy small{font-size:8px}}

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 360" role="img" aria-labelledby="title desc">
+  <title id="title">Kenyan landscape illustration</title>
+  <desc id="desc">Mountains, acacia trees and cultivated hills in the colors of Kenya.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#f5ead3"/><stop offset="1" stop-color="#dce9d9"/></linearGradient>
+    <linearGradient id="hill" x2="0" y2="1"><stop stop-color="#548766"/><stop offset="1" stop-color="#183f2d"/></linearGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h960v360H0z"/>
+  <circle cx="750" cy="90" r="42" fill="#d7a441" opacity=".8"/>
+  <path fill="#607b79" d="m0 230 135-116 77 67 105-130 97 121 89-89 108 128 91-94 123 113 65-56 70 69v117H0z" opacity=".82"/>
+  <path fill="#edf1e8" d="m270 125 47-74 40 50 21-4-61-80-68 83zm320 65 64-68 48 54 18-3-68-76-84 83z" opacity=".9"/>
+  <path fill="#91a979" d="M0 245q135-45 267 7t260-5q156-67 433 3v110H0z"/>
+  <path fill="url(#hill)" d="M0 288q164-75 322-16t312-9q142-56 326 8v89H0z"/>
+  <path fill="#b51f2a" d="M0 334q210-34 397 8t321-5q128-27 242-4v27H0z" opacity=".72"/>
+  <path fill="#0d3827" d="M0 347q170-27 335 9t322-4q161-22 303 0v8H0z"/>
+  <g fill="#163a2a">
+    <path d="M105 300h8v-50h-8zM64 254q45-18 89 0-44 11-89 0zm14-14q31-19 62-1-31 10-62 1z"/>
+    <path d="M790 302h7v-42h-7zM754 263q41-17 81 0-40 10-81 0zm11-14q30-18 60 0-29 9-60 0z"/>
+    <path d="M855 307h6v-34h-6zM826 275q32-14 64 0-31 9-64 0z"/>
+  </g>
+  <path fill="#fff" d="M480 23c8 5 15 8 23 10v18c0 18-10 31-23 39-13-8-23-21-23-39V33c8-2 15-5 23-10z" opacity=".92"/>
+  <path fill="#111" d="M459 35q10-3 21-9 11 6 21 9v11h-42z"/>
+  <path fill="#b51f2a" d="M459 48h42v9h-42z"/>
+  <path fill="#087344" d="M459 60h42q-5 16-21 25-16-9-21-25z"/>
+</svg>
